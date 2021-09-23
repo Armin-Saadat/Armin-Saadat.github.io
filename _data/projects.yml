@@ -1,0 +1,31 @@
+- name: IA-GCN
+  image: images/MIDL_interpretabilityGCN2.png
+  description: |
+    ## **IA-GCN: Interpretable Attention based Graph Convolutional Network for Disease prediction**
+    
+    ---
+    
+    **Interpretability** in **Graph Convolutional Networks (GCNs)** has been explored to some extent in computer vision in general, yet, in the medical domain, it requires further examinations. 
+    Moreover, most of the interpretability approaches for GCNs, especially in the **medical domain**, focus on interpreting the model in a post hoc fashion. 
+    In this paper, we propose an interpretable graph learning based model which 1) interprets the **clinical relevance** of the input features towards the task, 2) uses the explanation to improve the model **performance** and, 3) learns a population level **latent graph** that may be used to interpret the cohort’s behavior. 
+    In a clinical scenario such a model can assist the clinical experts for better decision-making for diagnosis and treatment planning. 
+
+    <span style="color:#900"> **Soroush Farghadani**, Anees Kazi, and Nassir Navab</span>
+    
+    
+- name: Dementia
+  image: images/network.png
+  description: |
+    ## **Dementia Severity Classification under Small Sample Size and Weak Supervision in Thick Slice MRI**
+    
+    ---
+    
+    Early detection of dementia through specific biomarkers in **MR images** plays a critical role in developing support strategies proactively. 
+    **Fazekas scale** facilitates an accurate quantitative assessment of the severity of white matter lesions and hence the disease. Imaging Biomarkers of dementia are multiple and comprehensive documentation of them is time-consuming. Therefore, any effort to automatically extract these biomarkers will be of clinical value while reducing inter-rater discrepancies.
+    To tackle this problem, we propose to classify the disease severity based on the Fazekas scale through the visual biomarkers, namely the **Periventricular White Matter (PVWM)** and the **Deep White Matter (DWM)** changes, in the real-world setting of **thick-slice MRI**. 
+    Small training sample size and weak supervision in form of assigning severity labels to the whole MRI stack are among the main challenges. 
+    To combat the mentioned issues, we have developed a deep learning pipeline that employs **self-supervised** representation learning, **multiple instance learning**, and appropriate **pre-processing** steps. 
+
+    <span style="color:#900"> **Soroush Farghadani**, Reza Shirkavand, Sana Ayromlou, Maedeh-sadat Tahaei, Fattane Pourakpour, Bahareh Siahlou, Zeynab Khodakarami, Mohammad H. Rohban, Mansoor Fatehi, Hamid R. Rabiee</span>
+    
+    

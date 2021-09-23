@@ -1,0 +1,65 @@
+# Site
+# repository: sproogen/resume-theme
+# favicon: images/favicon.ico
+
+# Personal info
+name: Soroush Farghadani
+#title: Blah
+email: sor.fargh@gmail.com
+website: sfch1999.github.io
+
+# Social links
+# twitter_username: facespics
+github_username:  sfch1999
+
+googlescholar_username: Gv9ET40AAAAJ
+
+# dribbble_username: jekyll
+# facebook_username: jekyll
+# flickr_username: jekyll
+# instagram_username: chillwildlife
+linkedin_username: soroush-farghadani
+# pinterest_username: jekyll
+# youtube_username: globalmtb
+# googleplus_username: +jekyll
+
+# About Section
+# about_title: About Me
+about_profile_image: images/papyon.jpeg
+about_content: | # this will include new lines to allow paragraphs
+  **CV: [PDF](https://sfch1999.github.io/files/CV.pdf)**
+
+  
+  Currently, I am a B. Sc. senior student majoring in Computer Engineering at the **Sharif University of Technology**. In June 2019, I joined Data Science & Machine Learning Lab (DML) in SUT to carry out research as a **research assistant**. Since then, I have been conducting research on Computer Vision with an emphasis on developing deep learning methods for medical applications. Moreover,
+  In March 2020, I received a prestigious research award from the **Chair for Computer Aided Medical Procedures (CAMP)**, Technical University of Munich (TUM).
+  This award gave me the opportunity to work with **Prof. Navab**, one of the most prominent professors in Biomedical and Medical Informatics, on the newly emerged challenging topic of Geometric Deep Learning.
+  My research interests include **Computer Vision**, **Geometric Deep Learning**, and **Machine Learning**. 
+# Projects Section
+projects_title: Publications
+
+# Experience Section
+# experience_title: Experience
+
+# Education Section
+# educaton_title: Education
+
+# More Section
+# more_title: A Little More About Me
+more_content: | # this will include new lines to allow paragraphs
+  Alongside my interests in Science and Technology, some of my other hobbies are:
+   - Contemporary Classical Music
+   - Mountain Climbing
+   - Off-roading
+
+# Footer
+footer_show_references: true
+
+# Build settings
+remote_theme: sfch1999/sfch1999.github.io
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+ - jekyll-seo-tag

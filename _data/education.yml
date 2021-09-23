@@ -1,0 +1,23 @@
+- name: Sharif Univeristy of Technology
+  dates: 2017 - Present
+  qualification: BSc Computer Engineering
+  description: | # this will include new lines to allow paragraphs
+    Studying Computer Engineering at [Computer Engineering Department](http://ce.sharif.edu/).
+
+    **Related Courses:**
+    
+    Machine Learning (graduate, audited), 
+    Artificial Intelligence,
+    Linear Algebra,
+    Signals & Systems,
+    Probability and Statistics,
+    Design of Algorithms,
+    Data Structures and Algorithms,
+    Discrete Structures,
+    Convolutional Neural Networks (online, audited)
+- name: Shahid Ejei Highschool
+  dates: 2013-2017
+  qualification: Diploma
+  description: |
+    I received my Diploma in Mathematics and Physics from this highschool 
+    affiliated with the National Organization for the Development of Exceptional Talents ([NODET](http://nodet.net/)).
