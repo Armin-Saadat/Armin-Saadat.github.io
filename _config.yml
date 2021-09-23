@@ -25,7 +25,7 @@ linkedin_username: armin-saadat
 
 # About Section
 # about_title: About Me
-about_profile_image: images/papyon.jpeg
+about_profile_image: images/personal_photo.jpeg
 about_content: | # this will include new lines to allow paragraphs
   **CV: [PDF](https://sfch1999.github.io/files/CV.pdf)**
 
