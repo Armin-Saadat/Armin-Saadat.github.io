@@ -55,7 +55,7 @@ more_content: | # this will include new lines to allow paragraphs
 footer_show_references: true
 
 # Build settings
-remote_theme: sfch1999/sfch1999.github.io
+remote_theme: armin-saadat/armin-saadat.github.io
 
 sass:
   sass_dir: _sass
