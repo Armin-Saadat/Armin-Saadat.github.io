@@ -27,7 +27,7 @@
     We used cardiac MRI to segment scar tissues of heart causing possible future heart attacks.
     We achieved clean data from inconsistent **clinical data** using deformable registration techniques, including **Voxelmorph**.
     Then We combined LSTM with Conv3D to extract temporal features for infarction delineation.
-    Currently we are exploiting **transformers** to achieve state-of-the-art result.
+    Currently we are exploiting **transformers** to achieve state-of-the-art results.
 
 
     <span style="color:#900"> **Armin Saadat**, Elahe Badali, Mohammad H. Rohban</span>
