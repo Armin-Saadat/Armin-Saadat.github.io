@@ -16,6 +16,21 @@
     <span style="color:#900"> **Armin Saadat**, Nima Fathi, Saeed Saadatnejad, Alexandre Alahi</span>
     
     
+- name: RNN_Reg
+  image: images/unet_rnn.png
+  description: |
+    ## **Medical Image Registration Using Recurrent Neural Networks**
+    
+    ---
+    In medical analysis, supervised and labeled data is essential. However, labeling medical images is extremely difficult, expensive, and time-consuming.
+    We propose a novel method based on registration techniques to segment and label 2D slices of a 3D data, given a few labeled slices.
+    We utilize the efficiency of **Unet** as the basic spatial encoder-decoder module. 
+    Also we use recurrent models like **LSTMs** and **ConvLSTMs** to take advantage from the sequential information existed between sequence of slices.         
+
+
+    <span style="color:#900"> **Armin Saadat**, Hossein Khalili, Kian Bakhtari, Mahdieh Soleymani</span>
+
+
 - name: MuTGAN
   image: images/cardiac_mutgan.png
   description: |
@@ -26,7 +41,7 @@
     Early detection of myocardial infarction through specific biomarkers in **cardiac MR images** plays a critical role in developing support strategies proactively. 
     We used cardiac MRI to segment scar tissues of heart causing possible future heart attacks.
     We achieved clean data from inconsistent **clinical data** using deformable registration techniques, including **Voxelmorph**.
-    Then We combined LSTM with Conv3D to extract temporal features for infarction delineation.
+    Then We combined **LSTM with Conv3D** to extract temporal features for infarction delineation.
     Currently we are exploiting **transformers** to achieve state-of-the-art results.
 
 
