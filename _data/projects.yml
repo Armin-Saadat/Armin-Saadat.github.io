@@ -10,7 +10,7 @@
     This task can be seen as a fine-grained task while human bounding box and trajectory prediction deal with more coarse-grained information. 
     The former has been investigated less and here, we propose a **Recurrent Autoencoder Model** to do the harder task of pose prediction in the "Social Motion Forecasting" challenge conducted by **Stanford University**. 
     The results show the effectiveness of the our method by outperforming the available baselines by over 20% in evaluation metrics. 
-    [**Source-Code and Paper**](https://github.com/Armin-Saadat/pose-prediction-autoencoder)
+    [**Source-Code**](https://github.com/Armin-Saadat/pose-prediction-autoencoder)
 
 
     <span style="color:#900"> **Armin Saadat**, Nima Fathi, Saeed Saadatnejad, Alexandre Alahi</span>
