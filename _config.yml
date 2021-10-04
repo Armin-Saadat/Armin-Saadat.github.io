@@ -35,7 +35,7 @@ about_content: | # this will include new lines to allow paragraphs
   This internship gave me the opportunity to work with **Prof. Alahi**, one of the most prominent professors in transportation and socially-aware artificial intelligence, on the challenging topic of Pose & Trajectory Forcasting.
   My research interests include **Computer Vision**, **Medical Imaging**, **Autonomous Driving**, and **Machine Learning**. 
 # Projects Section
-projects_title: Publications
+# projects_title: Publications
 
 # Experience Section
 # experience_title: Experience
