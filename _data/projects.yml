@@ -1,16 +1,17 @@
 - name: IA-GCN
-  image: images/MIDL_interpretabilityGCN2.png
+  image: images/somof_method.png
   description: |
-    ## **IA-GCN: Interpretable Attention based Graph Convolutional Network for Disease prediction**
+    ## **Towards Human Pose Prediction using the Encoder-Decoder LSTM**
     
     ---
     
-    **Interpretability** in **Graph Convolutional Networks (GCNs)** has been explored to some extent in computer vision in general, yet, in the medical domain, it requires further examinations. 
-    Moreover, most of the interpretability approaches for GCNs, especially in the **medical domain**, focus on interpreting the model in a post hoc fashion. 
-    In this paper, we propose an interpretable graph learning based model which 1) interprets the **clinical relevance** of the input features towards the task, 2) uses the explanation to improve the model **performance** and, 3) learns a population level **latent graph** that may be used to interpret the cohort’s behavior. 
-    In a clinical scenario such a model can assist the clinical experts for better decision-making for diagnosis and treatment planning. 
+    **Human Pose Prediction** is defined as predicting the human keypoints locations for future frames, given the observed ones for past frames. 
+    It has numerous applicationsin in various fields like **Autonomous Driving**. 
+    This task can be seen as a fine-grained task while human bounding box and trajectory prediction deal with more coarse-grained information. 
+    The former has been investigated less and here, we propose a **Recurrent Autoencoder Model** to do the harder task of pose prediction in the SoMoF challenge conducted by **Stanford University**. 
+    The results show the effectiveness of the our method by outperforming the available baselines by over 20% in evaluation metrics. 
 
-    <span style="color:#900"> **Soroush Farghadani**, Anees Kazi, and Nassir Navab</span>
+    <span style="color:#900"> **Armin Saadat**, Nima Fathi, Saeed Saadatnejad, and Alexandre Alahi</span>
     
     
 - name: Dementia
