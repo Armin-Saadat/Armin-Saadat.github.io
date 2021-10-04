@@ -1,4 +1,4 @@
-- name: IA-GCN
+- name: Posepred_Method
   image: images/somof_method.png
   description: |
     ## **Towards Human Pose Prediction using the Encoder-Decoder LSTM**
@@ -8,25 +8,28 @@
     **Human Pose Prediction** is defined as predicting the human keypoints locations for future frames, given the observed ones for past frames. 
     It has numerous applicationsin in various fields like **Autonomous Driving**. 
     This task can be seen as a fine-grained task while human bounding box and trajectory prediction deal with more coarse-grained information. 
-    The former has been investigated less and here, we propose a **Recurrent Autoencoder Model** to do the harder task of pose prediction in the SoMoF challenge conducted by **Stanford University**. 
+    The former has been investigated less and here, we propose a **Recurrent Autoencoder Model** to do the harder task of pose prediction in the "Social Motion Forecasting" challenge conducted by **Stanford University**. 
     The results show the effectiveness of the our method by outperforming the available baselines by over 20% in evaluation metrics. 
+    [Source-Code and Paper](https://github.com/Armin-Saadat/pose-prediction-autoencoder)
 
-    <span style="color:#900"> **Armin Saadat**, Nima Fathi, Saeed Saadatnejad, and Alexandre Alahi</span>
+
+    <span style="color:#900"> **Armin Saadat**, Nima Fathi, Saeed Saadatnejad, Alexandre Alahi</span>
     
     
-- name: Dementia
-  image: images/network.png
+- name: MuTGAN
+  image: images/cardiac_mutgan.png
   description: |
-    ## **Dementia Severity Classification under Small Sample Size and Weak Supervision in Thick Slice MRI**
+    ## **Spatio-Temporal Segmentation of Myocardial Infarction**
     
     ---
     
-    Early detection of dementia through specific biomarkers in **MR images** plays a critical role in developing support strategies proactively. 
-    **Fazekas scale** facilitates an accurate quantitative assessment of the severity of white matter lesions and hence the disease. Imaging Biomarkers of dementia are multiple and comprehensive documentation of them is time-consuming. Therefore, any effort to automatically extract these biomarkers will be of clinical value while reducing inter-rater discrepancies.
-    To tackle this problem, we propose to classify the disease severity based on the Fazekas scale through the visual biomarkers, namely the **Periventricular White Matter (PVWM)** and the **Deep White Matter (DWM)** changes, in the real-world setting of **thick-slice MRI**. 
-    Small training sample size and weak supervision in form of assigning severity labels to the whole MRI stack are among the main challenges. 
-    To combat the mentioned issues, we have developed a deep learning pipeline that employs **self-supervised** representation learning, **multiple instance learning**, and appropriate **pre-processing** steps. 
+    Early detection of myocardial infarction through specific biomarkers in **cardiac MR images** plays a critical role in developing support strategies proactively. 
+    We used cardiac MRI to segment scar tissues of heart causing possible future heart attacks.
+    We achieved clean data from inconsistent **clinical data** using deformable registration techniques, including **Voxelmorph**.
+    Then We combined LSTM with Conv3D to extract temporal features for infarction delineation.
+    Currently we are exploiting **transformers** to achieve state-of-the-art result.
 
-    <span style="color:#900"> **Soroush Farghadani**, Reza Shirkavand, Sana Ayromlou, Maedeh-sadat Tahaei, Fattane Pourakpour, Bahareh Siahlou, Zeynab Khodakarami, Mohammad H. Rohban, Mansoor Fatehi, Hamid R. Rabiee</span>
+
+    <span style="color:#900"> **Armin Saadat**, Elahe Badali, Mohammad H. Rohban</span>
     
     
