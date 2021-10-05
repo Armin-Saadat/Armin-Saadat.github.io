@@ -15,7 +15,7 @@
   job_title: Research Assistant
   dates: May 2021 - Present
   description: | # this will include new lines to allow paragraphs
-    I joined the **Medical Imaging Analysis** group in Machine Learning Lab ([MLL](http://mll.ce.sharif.edu/) as a **research assistant** under the supervision of 
+    I joined the **Medical Imaging Analysis** group in Machine Learning Lab ([MLL](http://mll.ce.sharif.edu/)) as a **research assistant** under the supervision of 
     [Prof. Soleymani](https://scholar.google.com/citations?user=S1U0KlgAAAAJ&hl=en).
     My project is **Weakly-Supervised Segmentation Using RNN-Based Registration**. A weakly-supervised method to label 2D slices of a 3D data, given a few labeled ones.
     I exploited superpixel-based pseudo-labels to enhance the effectiveness of unsupervised deformable registration.
