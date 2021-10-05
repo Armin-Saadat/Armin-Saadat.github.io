@@ -1,15 +1,16 @@
-- company: Technical University Munich
-  job_title: Remote Research Assistant
-  dates: June 2020 - Present
+- company: École polytechnique fédérale de Lausanne
+  job_title: Research Assistant
+  dates: July 2021 - Present
   description: | # this will include new lines to allow paragraphs
-    In June 2020, I joined Computer Aided Medical Procedures ([CAMP](http://campar.in.tum.de)), as an intern 
-    under the supervision of [Prof. Dr. Nassir Navab](http://campar.in.tum.de/Main/NassirNavab), at Technical University of Munich (TUM). 
-    At first, I started to study the recently emerging topic of **Geometric Deep Learning**. Since I was fascinated by Graph Neural Networks, 
-    I managed to conduct a literature review in a short period of time. In the meantime, we studied the state-of-the-art methods in **interpretability**. Furthermore, 
-    in order to investigate the GNN's functionality, I implemented several pre-existed methods and tried to understand how exactly they are producing 
-    results when health-related datasets are used. After a while, I took the initiative and proposed a new model capable of **interpreting** in an end-to-end training fashion. 
-    This paper is submitted to **MICCAI 2021**.
+    In July 2021, I joined the Visual Intelligence for Transportation Lab ([VITA](https://www.epfl.ch/labs/vita/)), as an intern 
+    under the supervision of [Prof. Alexandre Alahi](https://people.epfl.ch/alexandre.alahi?lang=en), at Swiss Federal Institute of Technology Lausanne (EPFL). 
+    At first, I started to study the recently emerging topic of **Transformers**. Then I conducted a literature review on Human Pose Prediction.
+    As a start, we participated in the Social Motion Forecasting challenge ([SoMoF](https://somof.stanford.edu/)), held by **Stanford University** and won the **3rd** place.
+    Our proposed method outperformed the baselines of the challenge by over 20% and got accepted in the **ICCV workshops 2021**. 
+    After that we started to build a comprehensive library for Pose Prediction. This gave me proficiency in Pytorch. I studied numerous different methods on pose prediction and gained a deep understanding of topic.
+    The current library supports 8 famous datasets, and 10 models, all of which I have implemented.
   
+
 - company: Sharif University of Technology
   job_title: Research Assistant
   dates: June 2019 - Present
@@ -21,6 +22,7 @@
     undeniable value of this research, my most noteworthy research experience in Medical Image Analysis group 
     has been a project on **Dementia Disease**. In this project, I proposed a novel segmentation method which helped us to outperform the state-of-the-art 
     models.  The manuscipt is submitted to **MICCAI 2021**.
+
 
 - company: DataDays
   job_title: Scientific Staff
