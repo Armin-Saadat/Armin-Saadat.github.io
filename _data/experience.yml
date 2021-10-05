@@ -21,58 +21,71 @@
     We used cardiac MRI for the deliniation of scar tissues in the myocardial region of the heart. I designed and implemented a model based on LSTM and Conv3D to solve this problem.
 
 
+- company: Analysaur
+  job_title: Co-Founder and Product Manager
+  dates: June 2019 - February 2020
+  description: |
+    Analysaur is a startup company focused on digital marketing and advertisement with a focus on Telegram Messenger.
+    It is an all-in-one online platform connecting buyers, sellers, and advertisers together.
+    We assembeled a team of talented individuals and developed two functioning products. 
+    We mainly used Python, JavaScript, and GoLang, with frameworks like Django, ReactJs and VueJs in a brilliant microservice architecture.
+
+
+- company: Weblite Company
+  job_title: Software Engineer
+  dates: January 2019 - May 2019
+  description: |
+    [Weblite](https://www.weblite.me/) is the **Largest Online Educational Platform** in Iran.
+    It enables teachers and students to present themselves,connect, conduct live sessions, and produce educational content.
+    I developed Weblite messenger, the core of the platform. I also designed and developed several applications used in the platform.
+
+
 - company: DataDays
-  job_title: Scientific Staff
-  dates: September 2019 - December 2019
+  job_title: Participant
+  dates: 2019
   description: |
-    [DataDays](http://datadays.sharif.edu/) was the **First National Data Scientific Competition** held 
-    by the Sharif University of Technology.
-    Its main goal was to broaden the appeal for working on problems related to data. 
-    Moreover, it is a large-scale attempt to assess the level of knowledge in this field in Iran.
-    
-    As a volunteer, I joined the Assessment Staff and led a group of four people. We proposed questions which could be solved by Machine Learning and Deep Learning methods.
-    In addition, we developed some [Perisan Jupyter Notebooks](https://github.com/datadays-content/datadays-content.github.io) as tutorials mostly related 
-    to Data Analysis and Machine Learning. We made it accessible to all the teams in order to encourage them to raise their skill and knowledge in these fields. 
-    
-    The whole competition was centred around working on a dataset collected by [Cafebazaar](https://cafebazaar.ir/) from [Divar](http://divar.ir).
-    This dataset mainly comprises online advertisements published by people in different categories.
-  
-- company: Yektanet
-  job_title: Data Science Intern
-  dates: July 2019 - October 2019
-  description: |
-    During summer of 2019, I worked for a start-up called [Yektanet](https://www.en.yektanet.com/), an online advertisement platform in my country. 
-    This platform is basically publishing advertisements on well-known publishers for achieving clicks and views. 
-    I was employed as a data science intern and developed algorithms to help advertisers **target new customers who are likely to be interested in their business** 
-    using existing and innovative machine learning methods. 
-
-- company: Pido
-  job_title: Computer Vision Engineer
-  dates: June 2018 - June 2019
-  description: |
-    In June 2018, I joined a start-up called [Pido](https://pidonet.com/en/home/), One of the largest Fuel Delivery companies in the Middle East. 
-    I mainly worked on a project which was a collaboration between Pido and [PEC](https://en.pec.ir), a Payment Service Provider in Iran. In this 
-    project, we developed a method to scan Persian and English debit cards and extract the necessary information. An API based on our method is now 
-    deployed in both companies' applications. In this project, I proposed a novel method which is capable of removing the background of digits 
-    for better Optical Character Recognition performance.
+    [DataDays](https://github.com/SharifDataDays) is the First National Data Scientific Competition held by the Sharif University of Technology. 
+    Its main goal is to broaden the appeal for working on problems related to data. Moreover, it is a large-scale attempt to assess the level of knowledge in this field in Iran.
+    The dataset of challenge mainly comprises online advertisements published by people in different categories. 
+    Participants had to clean this data, look for correlations, and make useful inferences.
 
 
-- company: Sharif Univeristy of Technology
-  job_title: Teaching Assistant
+- company: AI Challenge
+  job_title: Scientific Staff & Participant
+  dates: 2018 & 2019
   description: |
-    Some of my teaching experiences as assistant:
+    [Sharif AI Challenge](https://github.com/SharifAIChallenge) is a programming competition for all who are interested in artificial intelligence.     
+    In 2018, I assembeled a team of three and participated in the challenge. I learned about Graph Algorithms, Constraint Satisfaction Problems, Backtraking, and the concept of Huristics.
+    In 2019, I help organizing the even as a scientific staff, gathering and contributing in desiging the scientific aspects of the game.
+
+
+- company: Winter Seminar Series
+  job_title: Technical Specialist
+  dates: 2018
+  description: |
+    [WSS](https://github.com/Winter-Seminar-Series/WSS-site), is a seminar series conducted every winter at Sharif University on advanced topics of computer science and engineering.
+    I was in charge of developing a Telegram bot, used by presenters, participants, and staffs.
+
+
+
+- company: Sharif University of Technology
+  job_title: 
+  description: |
+    Some of my experiences as teaching assistant:
     
-    **Fall 2020:**
-    + Linear Algebra - Prof. Rabiee (Lead TA): 
-        [Leading a team of 42 TAs] 
-        [Preparing [lecture notes](http://ce.sharif.edu/courses/99-00/1/ce425-1/index.php/section/resources/file/resources)]
-    + Design Algorithms - Dr. Zarrabi-Zadeh
+    **Fall 2021:**
+    + Design of Algorithms - Dr. Zarrabi-Zadeh (Lead TA): 
+        [Leading a team of 10 TAs] 
+        
+    **Spring 2021:**
+    + Advanced Information Retrieval - Dr. Soleymani
+    + Artificial Intelligence - Dr. Rohban
+    + Design of Algorithms - Dr. Seddighin
       
+    **Fall 2020:**
+    + Discrete Structures - Dr. Zarrabi-Zadeh
+    + Discrete Structures - Dr. Abam    
+    
     **Spring 2020:**
     + Artificial Intelligence - Dr. Rohban
-    + Discrete Structures - Dr. Zarrabi-Zadeh
-    
-    **Fall 2019:**
-    + Probability and Statistics - Dr. Sharifi
-    + Linear Algebra - Prof. Motahari
     
