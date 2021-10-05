@@ -4,7 +4,7 @@
   description: | # this will include new lines to allow paragraphs
     In July 2021, I joined the Visual Intelligence for Transportation Lab ([VITA](https://www.epfl.ch/labs/vita/)), as an intern 
     under the supervision of [Prof. Alexandre Alahi](https://people.epfl.ch/alexandre.alahi?lang=en), at Swiss Federal Institute of Technology Lausanne (EPFL). 
-    At first, I conducted a literature review on **Human Pose Prediction**. I learned about recurrent neural networks like LSTM, and the recently emerging networks **Transformers**.
+    At first, I conducted a literature review on **Human Pose Prediction** in which I studied the recently emerging networks **Transformers**.
     As a start, we participated in the Social Motion Forecasting challenge ([SoMoF](https://somof.stanford.edu/)), held by **Stanford University** and won the 3rd place.
     Our proposed method outperformed the baselines of the challenge by over 20% and got accepted in the ICCV workshops 2021. 
     After that we started to build a comprehensive library for Pose Prediction. I studied numerous different methods on pose prediction and gained a deep understanding of the topic. I also got proficient in Pytorch.
@@ -15,7 +15,7 @@
   job_title: Research Assistant
   dates: November 2020 - Present
   description: | # this will include new lines to allow paragraphs
-    In 2020, I joined the **Medical Image Analysis** group in Robust and Interpretable Machine Learning Lab ([RIML](https://github.com/rohban-lab)) as a **research assistant** under the supervision of     
+    In 2020, I joined the **Medical Image Analysis** group in Robust and Interpretable Machine Learning Lab ([RIML](https://github.com/rohban-lab)) as a **research assistant** under the supervision of 
     [Prof. Rohban](https://scholar.google.com/citations?hl=en&user=pRyJ6FkAAAAJ&view_op=list_works&sortby=pubdate).
     My first major involvement with the team was on a research project aiming to classify **X-Ray** images into two groups of Normal and Abnormal. Regardless of the 
     undeniable value of this research, my most noteworthy research experience in Medical Image Analysis group 
