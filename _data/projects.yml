@@ -19,17 +19,16 @@
 - name: RNN_Reg
   image: images/unet_rnn.png
   description: |
-    ## **Medical Image Registration Using Recurrent Neural Networks**
+    ## **Weakly-Supervised Segmentation Using RNN-Based Registration**
     
     ---
     In medical analysis, supervised and labeled data is essential. However, labeling medical images is extremely difficult, expensive, and time-consuming.
-    We propose a novel method based on registration techniques to segment and label 2D slices of a 3D data, given a few labeled slices.
-    We utilize the efficiency of **Unet** as the basic spatial encoder-decoder module. 
-    Also we use recurrent models like **LSTMs** and **ConvLSTMs** to take advantage from the sequential information existed between sequence of slices.         
+    We propose a novel weakly-supervised method based on registration techniques to segment and label unseen 2D slices of a 3D data, given a few labeled ones.
+    We utilize the efficiency of **Unet** as the backbone of the spatial encoder-decoder module. 
+    Also we use recurrent models like **LSTMs** and **ConvLSTMs** to take advantage of the sequential information existed between consecutive slices.         
 
 
-    <span style="color:#900"> **Armin Saadat**, Hossein Khalili, Kian Bakhtari, Mahdieh Soleymani</span>      
-    <br />
+    <span style="color:#900"> **Armin Saadat**, Hossein Khalili, Kian Bakhtari, Mahdieh Soleymani</span>          
 
 
 - name: MuTGAN
