@@ -16,11 +16,9 @@
   dates: November 2020 - Present
   description: | # this will include new lines to allow paragraphs
     In 2020, I joined the **Medical Image Analysis** group in Robust and Interpretable Machine Learning Lab ([RIML](https://github.com/rohban-lab)) as a **research assistant** under the supervision of 
-    [Prof. Rohban](https://scholar.google.com/citations?hl=en&user=pRyJ6FkAAAAJ&view_op=list_works&sortby=pubdate).
-    My first major involvement with the team was on a research project aiming to classify **X-Ray** images into two groups of Normal and Abnormal. Regardless of the 
-    undeniable value of this research, my most noteworthy research experience in Medical Image Analysis group 
-    has been a project on **Dementia Disease**. In this project, I proposed a novel segmentation method which helped us to outperform the state-of-the-art 
-    models.  The manuscipt is submitted to **MICCAI 2021**.
+    [Prof. Rohban](https://scholar.google.com/citations?hl=en&user=pRyJ6FkAAAAJ&view_op=list_works&sortby=pubdate).    
+    My project was **Spatio-Temporal Segmentation of Myocardial Infarction**. We spent a lot of time to clear and register our clinical data. 
+    We used cardiac MRI for the deliniation of scar tissues of the myocardial region in heart. I designed and implemented a model based on LSTM and Conv3D to solve this problem.
 
 
 - company: DataDays
