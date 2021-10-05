@@ -52,14 +52,14 @@
     I developed Weblite messenger, the core of the platform. I also designed and developed several applications used in the platform.
 
 
-- company: DataDays
-  job_title: Participant
-  dates: November 2019
-  description: |
-    [DataDays](https://github.com/SharifDataDays) is the First National Data Scientific Competition held by the Sharif University of Technology. 
-    Its main goal is to broaden the appeal for working on problems related to data. Moreover, it is a large-scale attempt to assess the level of knowledge in this field in Iran.
-    The dataset of challenge mainly comprises online advertisements published by people in different categories. 
-    Participants had to clean this data, look for correlations, and make useful inferences.
+# - company: DataDays
+#   job_title: Participant
+#   dates: November 2019
+#   description: |
+#     [DataDays](https://github.com/SharifDataDays) is the First National Data Scientific Competition held by the Sharif University of Technology. 
+#     Its main goal is to broaden the appeal for working on problems related to data. Moreover, it is a large-scale attempt to assess the level of knowledge in this field in Iran.
+#     The dataset of challenge mainly comprises online advertisements published by people in different categories. 
+#     Participants had to clean this data, look for correlations, and make useful inferences.
 
 
 - company: AI Challenge
