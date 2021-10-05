@@ -13,9 +13,21 @@
 
 - company: Sharif University of Technology
   job_title: Research Assistant
+  dates: May 2021 - Present
+  description: | # this will include new lines to allow paragraphs
+    I joined the **Medical Imaging Analysis** group in Machine Learning Lab ([MLL](http://mll.ce.sharif.edu/) as a **research assistant** under the supervision of 
+    [Prof. Soleymani](https://scholar.google.com/citations?user=S1U0KlgAAAAJ&hl=en).
+    My project is **Weakly-Supervised Segmentation Using RNN-Based Registration**. A weakly-supervised method to label 2D slices of a 3D data, given a few labeled ones.
+    I exploited superpixel-based pseudo-labels to enhance the effectiveness of unsupervised deformable registration.
+    I designed and implemented a model combining LSTM and ConvLSTM and Unet to take advantage of the sequential information existed between consecutive slices.
+    We have achieved better results up to 5% on abdominal datasets compared to state-of-the-art.
+
+
+- company: Sharif University of Technology
+  job_title: Research Assistant
   dates: November 2020 - Present
   description: | # this will include new lines to allow paragraphs
-    In 2020, I joined the **Medical Image Analysis** group in Robust and Interpretable Machine Learning Lab ([RIML](https://github.com/rohban-lab)) as a **research assistant** under the supervision of 
+    In 2020, I joined the **Medical Image Analysis** group in Robust and Interpretable Machine Learning Lab ([RIML](http://sharif.ir/~rohban/)) as a **research assistant** under the supervision of 
     [Prof. Rohban](https://scholar.google.com/citations?hl=en&user=pRyJ6FkAAAAJ&view_op=list_works&sortby=pubdate).
     My project was **Spatio-Temporal Segmentation of Myocardial Infarction**. We spent a lot of time clearing and registering our clinical data. 
     We used cardiac MRI for the deliniation of scar tissues in the myocardial region of the heart. I designed and implemented a model based on LSTM and Conv3D to solve this problem.
