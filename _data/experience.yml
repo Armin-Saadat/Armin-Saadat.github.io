@@ -54,7 +54,7 @@
 
 - company: DataDays
   job_title: Participant
-  dates: 2019
+  dates: November 2019
   description: |
     [DataDays](https://github.com/SharifDataDays) is the First National Data Scientific Competition held by the Sharif University of Technology. 
     Its main goal is to broaden the appeal for working on problems related to data. Moreover, it is a large-scale attempt to assess the level of knowledge in this field in Iran.
@@ -64,7 +64,7 @@
 
 - company: AI Challenge
   job_title: Scientific Staff & Participant
-  dates: 2018 & 2019
+  dates: December 2018 & 2019
   description: |
     [Sharif AI Challenge](https://github.com/SharifAIChallenge) is a programming competition for all who are interested in artificial intelligence.     
     In 2018, I assembeled a team of three and participated in the challenge. I learned about Graph Algorithms, Constraint Satisfaction Problems, Backtraking, and the concept of Huristics.
@@ -73,7 +73,7 @@
 
 - company: Winter Seminar Series
   job_title: Technical Specialist
-  dates: 2018
+  dates: January 2018
   description: |
     [WSS](https://github.com/Winter-Seminar-Series/WSS-site), is a seminar series conducted every winter at Sharif University on advanced topics of computer science and engineering.
     I was in charge of developing a Telegram bot, used by presenters, participants, and staffs.
