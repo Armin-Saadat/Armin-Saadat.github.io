@@ -48,10 +48,10 @@ about_content: | # this will include new lines to allow paragraphs
 # More Section
 # more_title: A Little More About Me
 more_content: | # this will include new lines to allow paragraphs
-  Alongside my interests in Science and Technology, some of my other hobbies are:
-   - Contemporary Classical Music
-   - Mountain Climbing
-   - Off-roading
+  Alongside my interests in Science and Technology, some of my other hobbies are:  
+   - Playing Basketball (captain of the college team)
+   - Observational Astronomy
+   - Mountain Climbing & Camping
 
 # Footer
 footer_show_references: true
