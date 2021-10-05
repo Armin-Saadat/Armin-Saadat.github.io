@@ -16,9 +16,9 @@
   dates: November 2020 - Present
   description: | # this will include new lines to allow paragraphs
     In 2020, I joined the **Medical Image Analysis** group in Robust and Interpretable Machine Learning Lab ([RIML](https://github.com/rohban-lab)) as a **research assistant** under the supervision of 
-    [Prof. Rohban](https://scholar.google.com/citations?hl=en&user=pRyJ6FkAAAAJ&view_op=list_works&sortby=pubdate).    
-    My project was **Spatio-Temporal Segmentation of Myocardial Infarction**. We spent a lot of time to clear and register our clinical data. 
-    We used cardiac MRI for the deliniation of scar tissues of the myocardial region in heart. I designed and implemented a model based on LSTM and Conv3D to solve this problem.
+    [Prof. Rohban](https://scholar.google.com/citations?hl=en&user=pRyJ6FkAAAAJ&view_op=list_works&sortby=pubdate).
+    My project was **Spatio-Temporal Segmentation of Myocardial Infarction**. We spent a lot of time clearing and registering our clinical data. 
+    We used cardiac MRI for the deliniation of scar tissues in the myocardial region of the heart. I designed and implemented a model based on LSTM and Conv3D to solve this problem.
 
 
 - company: DataDays
