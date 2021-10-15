@@ -28,7 +28,7 @@
     Also we use recurrent models like **LSTMs** and **ConvLSTMs** to take advantage of the sequential information existed between consecutive slices.         
 
 
-    <span style="color:#900"> **Armin Saadat**, Hossein Khalili, Kian Bakhtari, Mahdieh Soleymani - (in progress)</span>          
+    <span style="color:#900"> **Armin Saadat**, Hossein Khalili, Kian Bakhtari, Mahdieh Soleymani-(in progress)</span>          
 
 
 - name: MuTGAN
