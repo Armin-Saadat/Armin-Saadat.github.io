@@ -11,6 +11,7 @@
     The former has been investigated less and here, we propose a **Recurrent Autoencoder Model** to do the harder task of pose prediction in the "Social Motion Forecasting" challenge conducted by **Stanford University**. 
     The results show the effectiveness of our method as it outperforms the available baselines by over 20% in evaluation metrics. 
     [**<Paper>**](https://somof.stanford.edu/cgi-bin/public/ICCVSoMoF2021AllFiles/15/Supplementary/paper.pdf)
+    , 
     [**<Source-Code>**](https://github.com/Armin-Saadat/pose-prediction-autoencoder)
     
 
