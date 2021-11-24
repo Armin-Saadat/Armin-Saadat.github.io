@@ -1,0 +1,52 @@
+- name: Posepred_Method
+  image: images/somof_method.png
+  description: |
+    ## **Towards Human Pose Prediction using the Encoder-Decoder LSTM**
+    
+    ---
+    
+    **Human Pose Prediction** is defined as predicting the human keypoints locations for future frames, given the observed ones for past frames. 
+    It has numerous applications in various fields like **Autonomous Driving**. 
+    This task can be seen as a fine-grained task while human bounding box and trajectory prediction deal with more coarse-grained information. 
+    The former has been investigated less and here, we propose a **Recurrent Autoencoder Model** to do the harder task of pose prediction in the "Social Motion Forecasting" challenge conducted by **Stanford University**. 
+    The results show the effectiveness of our method as it outperforms the available baselines by over 20% in evaluation metrics. 
+    [**Paper**](https://somof.stanford.edu/cgi-bin/public/ICCVSoMoF2021AllFiles/15/Supplementary/paper.pdf), 
+     [**Source-Code**](https://github.com/Armin-Saadat/pose-prediction-autoencoder)
+    
+
+
+    <span style="color:#900"> **Armin Saadat**, Nima Fathi, Saeed Saadatnejad, Alexandre Alahi</span> 
+    
+    
+- name: RNN_Reg
+  image: images/unet_rnn.png
+  description: |
+    ## **Weakly-Supervised Segmentation Using RNN-Based Registration**
+    
+    ---
+    In medical analysis, supervised and labeled data is essential. However, labeling medical images is extremely difficult, expensive, and time-consuming.
+    We propose a novel weakly-supervised method based on registration techniques to segment and label unseen 2D slices of a 3D data, given a few labeled ones.
+    We utilize the efficiency of **Unet** as the backbone of the spatial encoder-decoder module. 
+    Also we use recurrent models like **LSTMs** and **ConvLSTMs** to take advantage of the sequential information existed between consecutive slices.         
+
+
+    <span style="color:#900"> **Armin Saadat**, Hossein Khalili, Kian Bakhtari, Mahdieh Soleymani-(in progress)</span>          
+
+
+- name: MuTGAN
+  image: images/cardiac_mutgan.png
+  description: |
+    ## **Spatio-Temporal Segmentation of Myocardial Infarction**
+    
+    ---
+    
+    Early detection of myocardial infarction through specific biomarkers in **cardiac MR images** plays a critical role in developing support strategies proactively. 
+    We used cardiac MRI to segment scar tissues of heart causing possible future heart attacks.
+    We achieved clean data from inconsistent **clinical data** using deformable registration techniques, including **Voxelmorph**.
+    I proposed a model combining **LSTM with Conv3D** to extract temporal features for infarction delineation.
+    Currently we are exploiting **transformers** to achieve state-of-the-art results.
+
+
+    <span style="color:#900"> **Armin Saadat**, Elahe Badali, Mohammad H. Rohban - (in progress)</span>
+    
+    
