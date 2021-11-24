@@ -1,5 +1,5 @@
 - name: 3DPose_Method
-  image: images/3D_pose.png
+  image: images/3D_pose_min.png
   description: |
     ## **3D Human Pose Prediction: Where Do Simple Approaches Stand?**
     

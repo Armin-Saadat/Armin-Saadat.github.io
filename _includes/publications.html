@@ -1,9 +1,9 @@
-<div class="container projects-container">
+<div class="container publications-container">
   <h3>{{ site.publications_title | default: "Publications" }}</h3>
-  {% for project in site.data.projects %}
-    <div class="row clearfix project">
+  {% for publication in site.data.publications %}
+    <div class="row clearfix publication">
       <div class="col-xs-12 col-sm-5 col-md-6 no-print">
-        <span class="pub-img" style="background-image: url({{ project.image | relative_url }})" />
+        <span class="pub-img" style="background-image: url({{ publication.image | relative_url }})" />
       </div>
 <!--       <div class="col-xs-12 col-sm-4 col-md-3 col-print-12 left-column">
         <h4>{{ project.name }}</h4>
@@ -19,10 +19,10 @@
         {%- endif -%}
       </div> -->
       <div class="col-xs-12 col-sm-7 col-md-6 col-print-12">
-        {%- if project.quote -%}
-          <p class="quote">{{ project.quote }}</p>
+        {%- if publication.quote -%}
+          <p class="quote">{{ publication.quote }}</p>
         {%- endif -%}
-        {{ project.description | strip | markdownify }}
+        {{ publication.description | strip | markdownify }}
       </div>
     </div>
   {% endfor %}

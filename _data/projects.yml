@@ -1,7 +1,7 @@
 - name: Posepred_Method
   image: images/somof_method.png
   description: |
-    ## **Towards1 Human Pose Prediction using the Encoder-Decoder LSTM**
+    ## **Towards Human Pose Prediction using the Encoder-Decoder LSTM**
     
     ---
     
