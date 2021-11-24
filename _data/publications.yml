@@ -15,8 +15,9 @@
     <span style="color:#900"> **Armin Saadat**, Nima Fathi, Saeed Saadatnejad, Taylor Mordan, Alexandre Alahi</span> 
     
     
+    
 - name: 3D_Seg
-  image: images/unet_rnn.png
+  image: images/3D_seg_min.png
   description: |
     ## **Efficient 3D Image Segmentation via Joint Context Completion and 2D Segmentation**
     
