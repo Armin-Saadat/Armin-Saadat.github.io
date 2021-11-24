@@ -13,7 +13,7 @@
 
 
     <span style="color:#900"> **Armin Saadat**, Nima Fathi, Saeed Saadatnejad, Taylor Mordan, Alexandre Alahi</span> 
-    
+
     
     
 - name: 3D_Seg
@@ -22,7 +22,7 @@
     ## **Efficient 3D Image Segmentation via Joint Context Completion and 2D Segmentation**
     
     ---
-    3D medical image segmentation has typically been tackled with 3D convolutional neural networks(CNN). 
+    3D medical image segmentation has typically been tackled with 3D convolutional neural networks. 
     However, these models suffer from high computational costs and GPU memory consumption. 
     In this paper, we propose an improved 2D U-Net model which takes into account dependencies both inside and between 2D slices. 
     Since our model uses only 2D convolutions, it is computationally efficient while achieving better or comparable results to those of 3D segmentation models like 3D U-Net. 
