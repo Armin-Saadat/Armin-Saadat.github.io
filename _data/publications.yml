@@ -1,5 +1,5 @@
 - name: 3DPose_Method
-  image: images/somof_method.png
+  image: images/3D_pose.png
   description: |
     ## **3D Human Pose Prediction: Where Do Simple Approaches Stand?**
     
