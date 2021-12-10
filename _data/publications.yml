@@ -1,15 +1,14 @@
 - name: 3DPose_Method
   image: images/3D_pose_min.png
   description: |
-    ## **3D Human Pose Prediction: Where Do Simple Approaches Stand?**
+    ## **Human Pose Prediction: The Simpler The Better!**
     
     ---
-    3D human pose prediction is a challenging spatio-temporal task that has recently received great attention. 
-    Over the past few years, approaches have become increasingly more complex, using Long Short-Term Memories (LSTMs), Graph Convolutional Networks (GCNs), or even Transformers to solve the problem. 
-    In this paper, we show that recent models published in top-tier venues still fail to beat a very basic baseline not involving any learning. 
-    Then, we argue that some classes of human actions are not easily predictable (even by humans), hence should not be used in the overall learning process. 
-    Based on these observations, we propose a simple yet effective LSTM-based encoder-decoder architecture that learns an effective representation for simultaneous prediction of future poses and reconstruction of past ones. 
-    We investigate our findings on several standard datasets (Human3.6M, JTA and 3DPW), and obtain a significant improvement over the state of the art.    
+    3D human pose prediction is a challenging spatio-temporal task that has been tackled using Graph Convolutional Networks (GCNs), Long Short-Term Memories (LSTMs), and recently Transformers. 
+    In this paper, we show that recent complex models are not always effective and still cannot beat a basic baseline that does not involve any learning. 
+    Moreover, some classes of human actions are not usefull for models to train on, hence should not be used in the learning process. 
+    We propose a simple yet effective LSTM-based encoder-decoder architecture that learns an effective representation for simultaneous prediction of future poses and reconstruction of past ones. 
+    We investigate our findings on several standard datasets (Human3.6M, JTA, and 3DPW), and obtain a significant improvement over the state of the art.    
 
 
     <span style="color:#900"> **Armin Saadat**, Nima Fathi, Saeed Saadatnejad, Taylor Mordan, Alexandre Alahi</span> 
