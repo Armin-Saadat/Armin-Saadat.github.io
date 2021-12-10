@@ -8,7 +8,7 @@
     In this paper, we show that recent complex models are not always effective and still cannot beat a basic baseline that does not involve any learning. 
     Moreover, some classes of human actions are not usefull for models to train on, hence should not be used in the learning process. 
     We propose a simple yet effective LSTM-based encoder-decoder architecture that learns an effective representation for simultaneous prediction of future poses and reconstruction of past ones. 
-    We investigate our findings on several standard datasets (Human3.6M, JTA, and 3DPW), and obtain a significant improvement over the state of the art.    
+    We obtain a significant improvement over the state of the art on several standard datasets (Human3.6M, JTA, and 3DPW).    
 
 
     <span style="color:#900"> **Armin Saadat**, Nima Fathi, Saeed Saadatnejad, Taylor Mordan, Alexandre Alahi</span> 
