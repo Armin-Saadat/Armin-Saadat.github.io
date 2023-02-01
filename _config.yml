@@ -29,10 +29,11 @@ about_content: | # this will include new lines to allow paragraphs
   **resume: [PDF](https://armin-saadat.github.io/files/resume.pdf)**
 
   
-  Currently, I am a M.Sc. student at **University of British Columbia (UBC)** conducting research on Medical Imaging under the supervision of **Dr. Purang Abolmaesumi**. 
-  I recieved my B.Sc. from **Sharif University of Technology**, where I was working on computer vision with an emphasis on developing deep learning methods for medical applications. 
-  Moreover, in July 2021, I received a prestigious research internship from the Visual Intelligence for Transportation (VITA Lab), **Swiss Federal Institute of Technology Lausanne (EPFL)**.
+  Currently, I am a M.Sc. student at **University of British Columbia (UBC)** conducting research on medical imaging under the supervision of **Dr. Purang Abolmaesumi**. 
+  I received my B.Sc. from **Sharif University of Technology**, where I was working on computer vision with an emphasis on developing deep learning methods for medical applications. 
+  Moreover, in July 2021, I received a prestigious research internship from the Visual Intelligence for Transportation, **Swiss Federal Institute of Technology Lausanne (EPFL)**.
   This internship allowed me to work with **Prof. Alahi** on the challenging topic of Pose & Trajectory Forecasting for Autonomous Driving.
+  
   My research interests include **Computer Vision**, **Medical Imaging**, **Autonomous Driving**, and **Machine Learning Theory**. 
 # Projects Section
 # projects_title: Publications
