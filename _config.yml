@@ -5,7 +5,7 @@
 # Personal info
 name: "Armin Saadat"
 #title: Blah
-email: armin2saadat@gmail.com
+email: arminsdt@ece.ubc.ca
 
 # Social links
 # twitter_username: facespics
@@ -29,12 +29,11 @@ about_content: | # this will include new lines to allow paragraphs
   **resume: [PDF](https://armin-saadat.github.io/files/resume.pdf)**
 
   
-  Currently, I am a B.Sc. senior student majoring in Computer Engineering at the **Sharif University of Technology (SUT)**. 
-  In November 2019, I joined the Medical Image Analysis Lab in SUT as a **research assistant**. 
-  Since then, I have been researching Computer Vision with an emphasis on developing deep learning methods for medical applications. 
-  In July 2021, I received a prestigious research internship from the Visual Intelligence for Transportation (VITA Lab), **Swiss Federal Institute of Technology Lausanne (EPFL)**.
-  This internship allowed me to work with **Prof. Alahi**, one of the most prominent professors in transportation and socially-aware artificial intelligence, on the challenging topic of Pose & Trajectory Forecasting.
-  My research interests include **Computer Vision**, **Medical Imaging**, **Autonomous Driving**, and **Machine Learning**. 
+  Currently, I am a M.Sc. student at **University of British Columbia (UBC)** conducting research on Medical Imaging under the supervision of **Dr. Purang Abolmaesumi**. 
+  I recieved my B.Sc. from **Sharif University of Technology**, where I was working on computer vision with an emphasis on developing deep learning methods for medical applications. 
+  Moreover, in July 2021, I received a prestigious research internship from the Visual Intelligence for Transportation (VITA Lab), **Swiss Federal Institute of Technology Lausanne (EPFL)**.
+  This internship allowed me to work with **Prof. Alahi** on the challenging topic of Pose & Trajectory Forecasting for Autonomous Driving.
+  My research interests include **Computer Vision**, **Medical Imaging**, **Autonomous Driving**, and **Machine Learning Theory**. 
 # Projects Section
 # projects_title: Publications
 
