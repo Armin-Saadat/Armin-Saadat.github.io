@@ -1,5 +1,19 @@
+- name: University of British Columbia
+  dates: 2022 - (Exp) 2024
+  qualification: M.Sc. Electrical & Computer Engineering
+  description: | # this will include new lines to allow paragraphs
+    Studying at [Electrical & Computer Engineering Department](https://ece.ubc.ca/).
+
+    **Related Courses:**
+    
+    Deep Learning (A)
+    Constrained Optimization & Image Processing (A)
+    Visual AI
+    Machine Learning (Teaching Assistant)    
+    
+
 - name: Sharif Univeristy of Technology
-  dates: 2017 - Present
+  dates: 2017 - 2022
   qualification: B.Sc. Computer Engineering
   description: | # this will include new lines to allow paragraphs
     Studying Computer Engineering at [Computer Engineering Department](http://ce.sharif.edu/).
